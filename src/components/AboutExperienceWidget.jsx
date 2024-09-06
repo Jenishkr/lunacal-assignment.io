@@ -74,7 +74,7 @@ const AboutExperienceWidget = () => {
           >
             <div className="w-full sm:w-1/3 p-4 text-gray-400">
               <p>
-                Hello! I'm Jenish Kumar, I am a passionate Software Engineer currently pursuing a degree in Computer Science at Techno International NewTown.
+                Hello! I'm Jenish Kumar, I am a passionate Software Engineer currently pursuing a B.Tech degree in Computer Science at Techno International NewTown.
               </p>
             </div>
             <div className="w-full sm:w-1/3 p-4 text-gray-400">
