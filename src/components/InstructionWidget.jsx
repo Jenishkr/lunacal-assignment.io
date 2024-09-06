@@ -17,7 +17,7 @@ const InstructionWidget = () => {
         <li>To design a remote platform to track police officers using technologies like NFC ,GPS and ensure adherence to assigned posts.</li>
       </ul>
 
-      <h4 className="text-lg font-semibold">Proctored Exam Tool</h4>
+      <h4 className="mt-6 text-lg font-semibold">Proctored Exam Tool</h4>
       <ol className="list-decimal list-inside space-y-2 font-semibold"> {/* Semi-bold text */}
         <li>  The proposed "ProctoredEye" is a desktop application designed to enhance the integrity of online examinations. Facial recognition, real-time monitoring, and behavior checks to prevent cheating.</li>
       </ol>
