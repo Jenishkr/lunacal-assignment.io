@@ -84,7 +84,8 @@ const AboutExperienceWidget = () => {
             </div>
             <div className="w-full sm:w-1/3 p-4 text-gray-400">
               <p>
-                Focus on the right-side widgets, ensuring responsiveness, precise UI replication, and proper alignment, while keeping the left side empty. Implement clickable tabs and a functional image addition feature in the gallery widget.
+                - 📫 To Reach Me 
+                <a href="mailto:jenishkr.gupta@gmail.com" style="user-select: auto;">jenishkr.gupta@gmail.com</a>
               </p>
             </div>
           </div>
