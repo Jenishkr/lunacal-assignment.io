@@ -84,7 +84,7 @@ const AboutExperienceWidget = () => {
             </div>
             <div className="w-full sm:w-1/3 p-4 text-gray-400">
               <p>
-                - 📫 To Reach Me <a href="mailto:jenishkr.gupta@gmail.com"</a>
+                - 📫 To Reach Me <jenishkr.gupta@gmail.com>
                 
               </p>
             </div>
