@@ -83,9 +83,9 @@ const AboutExperienceWidget = () => {
               <p>• Qualified in SIH 2023 Internal hackathon</p>
             </div>
             <div className="w-full sm:w-1/3 p-4 text-gray-400">
-              <p>• Responsive Design: Use CSS media queries to make sure the design adjusts properly on different screen sizes. </p>
-              <p>• Functionality: Implement the tab switching and image addition using JavaScript or a front-end framework like React. </p>
-              <p>• Attention to Detail: Pay close attention to margins, paddings, and shadow effects to meet the exact UI requirements.</p>
+              <p>
+                Focus on the right-side widgets, ensuring responsiveness, precise UI replication, and proper alignment, while keeping the left side empty. Implement clickable tabs and a functional image addition feature in the gallery widget.
+              </p>
             </div>
           </div>
         </div>
