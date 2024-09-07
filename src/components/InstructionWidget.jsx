@@ -8,9 +8,9 @@ const InstructionWidget = () => {
       data-testid="instruction-widget"
     >
       <h2 className="text-lg font-semibold">Solution Challenge 2023</h2>
-      <ol className="list-decimal list-inside space-y-2 font-semibold"> {/* Semi-bold text */}
+      <ul className="list-decimal list-inside space-y-2 font-semibold"> {/* Semi-bold text */}
         <li> A website addressing antenatal care, fetal precautions, and doctor-advised medications is needed to save lives.</li>
-      </ol>
+      </ul>
 
       <h3 className="mt-6 text-lg font-semibold">Tool For Monitoring Ground Personnel</h3>
       <ul className="list-disc list-inside space-y-2 font-semibold"> {/* Semi-bold text */}
