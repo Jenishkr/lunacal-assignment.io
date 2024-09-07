@@ -8,9 +8,9 @@ const InstructionWidget = () => {
       data-testid="instruction-widget"
     >
       <h2 className="text-lg font-semibold">Solution Challenge 2023</h2>
-      <ul className="list-decimal list-inside space-y-2 font-semibold"> {/* Semi-bold text */}
+      <ol className="list-disc list-inside space-y-2 font-semibold"> {/* Semi-bold text */}
         <li> A website addressing antenatal care, fetal precautions, and doctor-advised medications is needed to save lives.</li>
-      </ul>
+      </ol>
 
       <h3 className="mt-6 text-lg font-semibold">Tool For Monitoring Ground Personnel</h3>
       <ul className="list-disc list-inside space-y-2 font-semibold"> {/* Semi-bold text */}
@@ -18,7 +18,7 @@ const InstructionWidget = () => {
       </ul>
 
       <h4 className="mt-6 text-lg font-semibold">Proctored Exam Tool</h4>
-      <ol className="list-decimal list-inside space-y-2 font-semibold"> {/* Semi-bold text */}
+      <ol className="list-disc list-inside space-y-2 font-semibold"> {/* Semi-bold text */}
         <li>  The proposed "ProctoredEye" is a desktop application designed to enhance the integrity of online examinations. Facial recognition, real-time monitoring, and behavior checks to prevent cheating.</li>
       </ol>
 
